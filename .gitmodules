@@ -1,0 +1,12 @@
+[submodule "fish"]
+	path = fish
+	url = git@github.com:Nishnha/fish-config.git
+[submodule ".i3"]
+	path = .i3
+	url = git@github.com:Nishnha/i3-config.git
+[submodule ".vim"]
+	path = .vim
+	url = git@github.com:Nishnha/vim.git
+[submodule ".fonts"]
+	path = .fonts
+	url = git@github.com:Nishnha/fonts.git
