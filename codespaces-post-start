@@ -1,0 +1,4 @@
+#!/bin/sh
+
+apt-get install -y \
+  fish vim tmux ctags jq gh tree shellcheck
